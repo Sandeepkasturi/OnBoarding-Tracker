@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <applies_to/>
+        <condition/>
+        <controlled_by_refs/>
+        <decision_type>allow</decision_type>
+        <description>Allow read for records in x_2064375_onboar_0_onboarding_task, for users with role x_2064375_onboar_0.onboarding_task_user.</description>
+        <local_or_existing>Existing</local_or_existing>
+        <name>x_2064375_onboar_0_onboarding_task</name>
+        <operation display_value="read">read</operation>
+        <script/>
+        <security_attribute/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-06-30 17:29:43</sys_created_on>
+        <sys_id>3f2d6e65c3f5031013481cedd40131e0</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>x_2064375_onboar_0_onboarding_task</sys_name>
+        <sys_package display_value="OnBoarding Tracker" source="x_2064375_onboar_0">b0796229c335031013481cedd4013146</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="OnBoarding Tracker">b0796229c335031013481cedd4013146</sys_scope>
+        <sys_update_name>sys_security_acl_3f2d6e65c3f5031013481cedd40131e0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-06-30 17:29:43</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+</record_update>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_users_groups">
+    <sys_report_users_groups action="INSERT_OR_UPDATE">
+        <group_id/>
+        <report_id display_value="New Hirings">0e656331c3b5031013481cedd40131ee</report_id>
+        <sys_class_name>sys_report_users_groups</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-07-01 16:13:50</sys_created_on>
+        <sys_id>ce656331c3b5031013481cedd40131ef</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>0e656331c3b5031013481cedd40131ee</sys_name>
+        <sys_package display_value="OnBoarding Tracker" source="x_2064375_onboar_0">b0796229c335031013481cedd4013146</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="OnBoarding Tracker">b0796229c335031013481cedd4013146</sys_scope>
+        <sys_update_name>sys_report_users_groups_ce656331c3b5031013481cedd40131ef</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-07-01 16:13:50</sys_updated_on>
+        <user_id display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</user_id>
+    </sys_report_users_groups>
+</record_update>

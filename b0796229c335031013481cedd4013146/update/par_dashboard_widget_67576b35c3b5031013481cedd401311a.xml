@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget">
+    <par_dashboard_widget action="INSERT_OR_UPDATE">
+        <canvas display_value="">2256a3b1c3b5031013481cedd40131ce</canvas>
+        <component display_value="Column">2bd5dc19a7ad083941b7c992a966dd78</component>
+        <component_props>{"configVersion":"23.0.0-ci-SNAPSHOT","showDataLabels":false,"disableTooltip":false,"showClosestSeriesOnHover":false,"showXGrid":false,"showDateRangeByDefault":false,"showYGrid":true,"hideYAxis0":false,"yAxis0Position":"left","hideYAxis1":false,"yAxis1Position":"right","hideYAxis2":false,"yAxis2Position":"right","hideYAxis3":false,"yAxis3Position":"right","hideYAxis4":false,"yAxis4Position":"right","showLegend":true,"showLegendValue":false,"legendPosition":"bottom","legendHorizontalAlignment":"center","legendExpandToFit":false,"yAxisStyle":"default","lineStrokeWidth":"2","chartVariation":"stacked","showPercentageOfTotalInTooltip":true,"extensionType":"bar","showContinuousLine":true,"showMarkers":false,"rangesConfig":{},"colorConfig":{"type":"palette","palette":"6389a0889fac73001bb9baac757fcfa5"},"newReporting":false,"enableAddZerosAtApi":true,"additionalGroupByConfig":[],"dataSources":[{"isDatabaseView":false,"allowRealTime":true,"label":"New Hire","sourceType":"table","tableOrViewName":"x_2064375_onboar_0_new_hire","preferredVisualizations":["d24d53f60350de7a652caf3188a46ed2"],"id":"dGFibGV4XzIwNjQzNzVfb25ib2FyXzBfbmV3X2hpcmUxNzgyOTIyNzU0MDg5","dataCategories":["trend","group","simple"]}],"showHeader":true,"showTotalAggregate":false,"showSubAggregate":false,"showFirstGroupAggregate":false,"showSecondGroupAggregate":false,"hideMatrixAggregate":false,"lineClamp":1,"headerTitleAlignment":"start","wrapTitle":false,"showLoadingIndicator":false,"showHeaderSeparator":false,"contextMenuActions":[],"headerTitle":"Number of Hirings","headingLevel":2,"description":"HR Hirings Dashboard","showBorder":true,"bareBorder":false,"telemetry":null,"showDataPassthrough":false,"showAdditionalGroupBySelector":false,"allowAdditionalGroupByPerMetric":true,"metrics":[{"dataSource":"dGFibGV4XzIwNjQzNzVfb25ib2FyXzBfbmV3X2hpcmUxNzgyOTIyNzU0MDg5","id":"ZEdGaWJHVjRYekl3TmpRek56VmZiMjVpYjJGeVh6QmZibVYzWDJocGNtVXhOemd5T1RJeU56VTBNRGc1MTc4MjkyMjc1ODYwMQ==","aggregateFunction":"COUNT","numberFormat":{"customFormat":false},"axisId":"primary"}],"groupBy":[{"groupBy":[{"dataSource":"dGFibGV4XzIwNjQzNzVfb25ib2FyXzBfbmV3X2hpcmUxNzgyOTIyNzU0MDg5","groupByField":"sys_created_on","isRange":true,"isChoice":false,"isPaBucket":false}],"maxNumberOfGroups":"ALL","numberOfGroupsBasedOn":"NO_OF_GROUP_BASED_ON_PER_METRIC","showOthers":false,"disableRanges":false}],"filterPerMetric":[],"sortBy":"value","sortByOrder":"desc","trendBy":{"trendByFrequency":"date","trendByMinuteInterval":null,"trendByFields":[{"field":"sys_created_on","metric":"ZEdGaWJHVjRYekl3TmpRek56VmZiMjVpYjJGeVh6QmZibVYzWDJocGNtVXhOemd5T1RJeU56VTBNRGc1MTc4MjkyMjc1ODYwMQ=="}]},"showChange":null,"showChangePercentage":null,"showTarget":false,"showForecast":false,"showForecastRange":false,"showTrend":false,"showConfidenceBand":false,"showGapPercentage":null,"showSparkline":null,"showMetricLabel":null,"showThreshold":false,"showComment":false,"showTotalValue":null,"followFilters":true,"showFilterIcon":true,"enableRealTimeUpdate":null,"enableDrilldown":true,"enableClickAndStay":false,"showDataTable":false,"enableCustomEmptyState":false,"componentId":"46hl1svv","emptyStateIllustration":"no-data","emptyStateHeading":"No data available.","emptyStateHeadingLevel":3,"emptyStateContent":"There are no scores available for the selected criteria. Contact your admin for more info.","emptyStateAlignment":"vertical-centered","refreshFrequency":null,"hideDevSettings":false,"configPropModifiers":{},"filterConfigurations":"@state.parFilters","showMaximumRange":false,"allowChangeDateRange":false,"applyDateRange":false,"numberOfPeriods":3,"showAbsolutePeriod":false,"autoAggregatePeriods":false,"scoreType":"latest","showChangeFrom":null,"startTime":null,"endTime":null,"useCurrentDateForEnd":false,"period":null,"useDataCache":false,"cacheExpirationTime":0,"showCacheTime":true,"dateFormat":"default","showRefresh":true,"showExportOptions":true,"showFilterAsSeparateSeries":false,"userInfo":"@context.session.user","colors":{}}</component_props>
+        <h>19</h>
+        <name/>
+        <required_translations>[{"comment":"","message":"New Hire","code":"PAR_DASHBOARD.2256a3b1c3b5031013481cedd40131ce.67576b35c3b5031013481cedd401311a"},{"comment":"","message":"Number of Hirings","code":"PAR_DASHBOARD.2256a3b1c3b5031013481cedd40131ce.67576b35c3b5031013481cedd401311a"},{"comment":"","message":"HR Hirings Dashboard","code":"PAR_DASHBOARD.2256a3b1c3b5031013481cedd40131ce.67576b35c3b5031013481cedd401311a"},{"comment":"","message":"No data available.","code":"PAR_DASHBOARD.2256a3b1c3b5031013481cedd40131ce.67576b35c3b5031013481cedd401311a"},{"comment":"","message":"There are no scores available for the selected criteria. Contact your admin for more info.","code":"PAR_DASHBOARD.2256a3b1c3b5031013481cedd40131ce.67576b35c3b5031013481cedd401311a"}]</required_translations>
+        <stored_component/>
+        <sys_class_name>par_dashboard_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-07-01 16:22:25</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>67576b35c3b5031013481cedd401311a</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="OnBoarding Tracker" source="x_2064375_onboar_0">b0796229c335031013481cedd4013146</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="OnBoarding Tracker">b0796229c335031013481cedd4013146</sys_scope>
+        <sys_update_name>par_dashboard_widget_67576b35c3b5031013481cedd401311a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-07-01 16:24:07</sys_updated_on>
+        <visualization/>
+        <w>18</w>
+        <widget_props/>
+        <x>0</x>
+        <y>0</y>
+    </par_dashboard_widget>
+</record_update>
