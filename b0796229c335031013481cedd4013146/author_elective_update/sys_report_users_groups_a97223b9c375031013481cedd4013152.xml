@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_users_groups">
+    <sys_report_users_groups action="DELETE">
+        <group_id/>
+        <report_id display_value="">69726f79c375031013481cedd40131e3</report_id>
+        <sys_class_name>sys_report_users_groups</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-07-01 16:00:59</sys_created_on>
+        <sys_id>a97223b9c375031013481cedd4013152</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>69726f79c375031013481cedd40131e3</sys_name>
+        <sys_package display_value="OnBoarding Tracker" source="x_2064375_onboar_0">b0796229c335031013481cedd4013146</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="OnBoarding Tracker">b0796229c335031013481cedd4013146</sys_scope>
+        <sys_update_name>sys_report_users_groups_a97223b9c375031013481cedd4013152</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-07-01 16:00:59</sys_updated_on>
+        <user_id display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</user_id>
+    </sys_report_users_groups>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="OnBoarding Tracker">b0796229c335031013481cedd4013146</application>
+        <file_path/>
+        <instance_id>d4b11caa9333b29c611eddd548373c88</instance_id>
+        <instance_name>dev370969</instance_name>
+        <name>sys_report_users_groups_a97223b9c375031013481cedd4013152</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_users_groups"><sys_report_users_groups action="INSERT_OR_UPDATE"><group_id/><report_id display_value="">69726f79c375031013481cedd40131e3</report_id><sys_class_name>sys_report_users_groups</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-07-01 16:00:59</sys_created_on><sys_id>a97223b9c375031013481cedd4013152</sys_id><sys_mod_count>0</sys_mod_count><sys_name>69726f79c375031013481cedd40131e3</sys_name><sys_package display_value="OnBoarding Tracker" source="x_2064375_onboar_0">b0796229c335031013481cedd4013146</sys_package><sys_policy/><sys_scope display_value="OnBoarding Tracker">b0796229c335031013481cedd4013146</sys_scope><sys_update_name>sys_report_users_groups_a97223b9c375031013481cedd4013152</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-07-01 16:00:59</sys_updated_on><user_id display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</user_id></sys_report_users_groups></record_update>]]></payload>
+        <payload_hash>1556668115</payload_hash>
+        <record_name>69726f79c375031013481cedd40131e3</record_name>
+        <reverted_from/>
+        <source>6a9e13b1c375031013481cedd4013182</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-07-01 16:00:59</sys_created_on>
+        <sys_id>f17223b9c375031013481cedd4013158</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19f1e6984aa0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-07-01 16:00:59</sys_updated_on>
+        <type>Report Users and Groups</type>
+        <update_guid>b17223b96275031043daf0674ff47157</update_guid>
+        <update_guid_history>b17223b96275031043daf0674ff47157:1556668115</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-07-01 16:05:39</sys_created_on>
+        <sys_db_object display_value="" name="sys_report_users_groups">sys_report_users_groups</sys_db_object>
+        <sys_id>04539c18b3e14089801d5dfcc525a9c1</sys_id>
+        <sys_metadata>a97223b9c375031013481cedd4013152</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>69726f79c375031013481cedd40131e3</sys_name>
+        <sys_package display_value="OnBoarding Tracker" source="x_2064375_onboar_0">b0796229c335031013481cedd4013146</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="OnBoarding Tracker">b0796229c335031013481cedd4013146</sys_scope>
+        <sys_scope_delete display_value="">1129c695236b4b5f9c7b2898c2a03d71</sys_scope_delete>
+        <sys_update_name>sys_report_users_groups_a97223b9c375031013481cedd4013152</sys_update_name>
+        <sys_update_version display_value="sys_report_users_groups_a97223b9c375031013481cedd4013152">f17223b9c375031013481cedd4013158</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-07-01 16:05:39</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

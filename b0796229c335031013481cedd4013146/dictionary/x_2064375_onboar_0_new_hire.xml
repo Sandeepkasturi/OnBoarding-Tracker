@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="enforce_dot_walk_cross_scope_access=true" db_object_id="81e9e66dc335031013481cedd4013145" label="New Hire" max_length="40" name="x_2064375_onboar_0_new_hire" type="collection">
+        <element choice="3" label="Status" max_length="40" name="status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Pending" value="pending"/>
+                <element inactive_on_update="false" label="In Progress" value="in progress"/>
+                <element inactive_on_update="false" label="Completed" value="completed"/>
+            </choice>
+        </element>
+        <element label="Joining Date" max_length="40" name="joining_date" reference="sys_user" type="glide_date"/>
+        <element label="Name" max_length="32" name="name" reference="sys_user_group" type="reference"/>
+        <index name="index">
+            <element name="name"/>
+        </index>
+    </element>
+</database>

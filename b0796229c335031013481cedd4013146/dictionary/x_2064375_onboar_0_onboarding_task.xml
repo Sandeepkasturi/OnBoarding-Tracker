@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="enforce_dot_walk_cross_scope_access=true" db_object_id="7e2ca621c3f5031013481cedd40131d3" label="Onboarding Task" max_length="40" name="x_2064375_onboar_0_onboarding_task" type="collection">
+        <element label="Parent Hire" max_length="32" name="parent_hire" reference="x_2064375_onboar_0_new_hire" type="reference"/>
+        <element label="Due Date" max_length="40" name="due_date" type="glide_date"/>
+        <element label="Task Name" max_length="160" name="task_name" type="string"/>
+        <element choice="1" label="Task type" max_length="40" name="task_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Buddy Assignment" sequence="4" value="buddy_assignment"/>
+                <element inactive_on_update="false" label="ID Card" sequence="2" value="id_card"/>
+                <element inactive_on_update="false" label="Policy Ack" sequence="3" value="policy_ack"/>
+                <element inactive_on_update="false" label="Hardware" sequence="1" value="hardware"/>
+                <element inactive_on_update="false" label="IT Access" sequence="0" value="it_access"/>
+                <element inactive_on_update="false" label="Week Schedule" sequence="5" value="week_schedule"/>
+            </choice>
+        </element>
+        <element choice="3" label="State" max_length="40" name="state" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="In Progress" sequence="1" value="in_progress"/>
+                <element inactive_on_update="false" label="Open" sequence="0" value="open"/>
+                <element inactive_on_update="false" label="Closed" sequence="2" value="closed"/>
+            </choice>
+        </element>
+        <element label="Assignment Group" max_length="32" name="assignment_group" reference="sys_user_group" type="reference"/>
+        <index name="index">
+            <element name="assignment_group"/>
+        </index>
+        <index name="index2">
+            <element name="parent_hire"/>
+        </index>
+    </element>
+</database>

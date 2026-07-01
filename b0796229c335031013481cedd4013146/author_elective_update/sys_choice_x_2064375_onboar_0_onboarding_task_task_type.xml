@@ -6,7 +6,6 @@
             <sys_class_name>sys_choice_set</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2026-06-30 17:33:08</sys_created_on>
-            <sys_id>f1fda229c3f5031013481cedd401319a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>task_type</sys_name>
             <sys_package display_value="OnBoarding Tracker" source="x_2064375_onboar_0">b0796229c335031013481cedd4013146</sys_package>
@@ -30,7 +29,6 @@
             <sys_created_on>2026-06-30 17:33:08</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>f9fda229c3f5031013481cedd4013199</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2026-06-30 17:33:08</sys_updated_on>
@@ -50,7 +48,6 @@
             <sys_created_on>2026-06-30 17:33:08</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>f5fda229c3f5031013481cedd401319b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2026-06-30 17:33:08</sys_updated_on>
@@ -70,7 +67,6 @@
             <sys_created_on>2026-06-30 17:33:08</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>7dfda229c3f5031013481cedd401319c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2026-06-30 17:33:08</sys_updated_on>
@@ -90,7 +86,6 @@
             <sys_created_on>2026-06-30 17:33:08</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>f1fda229c3f5031013481cedd401319e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2026-06-30 17:33:08</sys_updated_on>
@@ -110,7 +105,6 @@
             <sys_created_on>2026-06-30 17:33:08</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>79fda229c3f5031013481cedd401319f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2026-06-30 17:33:08</sys_updated_on>
@@ -130,7 +124,6 @@
             <sys_created_on>2026-06-30 17:33:08</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>fdfda229c3f5031013481cedd40131a0</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2026-06-30 17:33:08</sys_updated_on>
