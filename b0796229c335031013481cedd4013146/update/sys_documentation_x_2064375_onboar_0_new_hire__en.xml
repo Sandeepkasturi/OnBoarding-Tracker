@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="New Hire" language="en" table="x_2064375_onboar_0_new_hire">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>New Hire</label>
+            <language>en</language>
+            <name>x_2064375_onboar_0_new_hire</name>
+            <plural>New Hires</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-06-30 17:21:06</sys_created_on>
+            <sys_id>613b6a61c3b5031013481cedd40131b8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>New Hire</sys_name>
+            <sys_package display_value="OnBoarding Tracker" source="x_2064375_onboar_0">b0796229c335031013481cedd4013146</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="OnBoarding Tracker">b0796229c335031013481cedd4013146</sys_scope>
+            <sys_update_name>sys_documentation_x_2064375_onboar_0_new_hire__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-06-30 17:21:06</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
